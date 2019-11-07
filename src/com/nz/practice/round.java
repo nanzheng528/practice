@@ -10,6 +10,6 @@ package com.nz.practice;
 public class round {
 
 	public static void main(String[] args) {
-		System.out.println(Math.round(-11.8));
+		System.out.println(Math.round(-11.5));
 	}
 }
